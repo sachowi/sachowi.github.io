@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding Flask Blueprints: A Guide to Modularizing Your Flask Application
+title: Understanding Flask Blueprints - A Guide to Modularizing Your Flask Application
 ---
 
 Flask is a lightweight and flexible web framework for Python, and one of its powerful features is the concept of Blueprints. Blueprints in Flask allow developers to organize and modularize their application, making it easier to manage complex projects. In this article, we'll dive into Flask Blueprints, explain their benefits, and provide a practical guide on how to use them effectively.
